@@ -3,12 +3,14 @@ The project focuses on analyzing restaurant order data using SQL. The objective 
 # Data sources
 Sales Data : The primary dataset used for this analysices is the restaurent order analysices .csv, containg detailed information about  each sale made by day restaurent .
 # Tools :
-- Excel - Data cleaning
-- sql  server - Data analysices
-- power point - creating reports
+- Excel -    Data cleaning 
+-  sql  server - Data analysices 
+-  power point - creating reports
 # Data cleaning preparation 
 1.Data loading and inspection
+
 2.Handling missing values
+
 3.Data cleaning  and formatting
 # Explotary Data Analysices 
 - count the total number of order placed ?
